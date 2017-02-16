@@ -1,0 +1,82 @@
+{
+    "success": true,
+    "code": 200,
+    "msg": "操作成功",
+    "obj": {
+        "id": 604960,
+        "sceneId": 1301,
+        "num": 4,
+        "name": null,
+        "properties": {
+            "thumbSrc": "http://showt3.bongv.cn/Uploads/syspic/pic//201507/55af14b7f3b39.jpg"
+        },
+        "elements": [
+            {
+                "id": 183335729,
+                "pageId": 26143278,
+                "sceneId": 1301,
+                "type": "2",
+                "content": "<div style=\"text-align: center;\"><span style=\"font-size: small; line-height: 1; background-color: initial;\"><span id=\"init_reprot\">举报</span><a href=\"http://admin.bongv.com/Home/Index/wrapreg.shtml?channel=show&sceneId=0\" target=\"_blank\"><font color=\"#ffffff\">免费创建一个微秀→</font><font color=\"#fdea02\">帮微</font></a></span></div>",
+                "css": {
+                    "borderRadius": "0px",
+                    "borderStyle": "solid",
+                    "height": "42",
+                    "paddingTop": "0px",
+                    "borderColor": "rgba(222,220,227,1)",
+                    "zIndex": "6",
+                    "boxShadow": "0px 0px 0px rgba(200,200,200,0.6)",
+                    "color": "",
+                    "backgroundColor": "rgba(255,255,255,0)",
+                    "borderWidth": "0px",
+                    "width": "320",
+                    "left": "0px",
+                    "paddingBottom": "20px",
+                    "top": "413px"
+                },
+                "properties": {
+                    "anim": {
+                        "type": 0,
+                        "direction": 3,
+                        "duration": 1,
+                        "delay": 0.6,
+                        "countNum": 1
+                    }
+                }
+            },{
+                "id": 183335730,
+                "pageId": 26143278,
+                "sceneId": 1301,
+                "type": "2",
+                "content": "<div style=\"text-align: center;\"><span style=\"font-size: small; line-height: 1; background-color: initial;\">开始</span></div>",
+                "css": {
+                    "borderRadius": "0px",
+                    "borderStyle": "solid",
+                    "height": "42",
+                    "paddingTop": "0px",
+                    "borderColor": "rgba(222,220,227,1)",
+                    "zIndex": "6",
+                    "boxShadow": "0px 0px 0px rgba(200,200,200,0.6)",
+                    "color": "",
+                    "backgroundColor": "rgba(255,255,255,0)",
+                    "borderWidth": "0px",
+                    "width": "320",
+                    "left": "0px",
+                    "paddingBottom": "20px",
+                    "top": "53px"
+                },
+                "properties": {
+                    "anim": {
+                        "type": 0,
+                        "direction": 3,
+                        "duration": 1,
+                        "delay": 0.6,
+                        "countNum": 1
+                    }
+                }
+            }
+        ],
+        "scene": null
+    },
+    "map": null,
+    "list": null
+}
